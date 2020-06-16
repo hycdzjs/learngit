@@ -5,6 +5,4 @@ Git is free software distributed under the GPL.
 
 my test information.
 
-
-
- 
+edit by woodenheart 16 june. 2020
